@@ -1,0 +1,17 @@
+{
+    "name": "charlesanesu/test2",
+    "autoload": {
+        "psr-4": {
+            "Charlesanesu\\Test2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "charl070",
+            "email": "62628677+Charl070@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "doctrine/dbal": "^4.1"
+    }
+}
